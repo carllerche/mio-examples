@@ -1,3 +1,5 @@
+*This was moved in the main MIO repo as part of the getting started documentation effort: https://github.com/carllerche/mio/pull/222*
+
 # MIO Examples
 
 A collection of examples built with MIO. Each example should be a self
